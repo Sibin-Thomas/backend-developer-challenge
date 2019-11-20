@@ -4,8 +4,11 @@
   "private": true,
   "dependencies": {
     "react": "^16.12.0",
+    "react-csv": "^1.1.2",
+    "react-csv-reader": "^2.0.2",
     "react-dom": "^16.12.0",
-    "react-scripts": "3.2.0"
+    "react-scripts": "3.2.0",
+    "use-media": "^1.4.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -27,5 +30,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "devDependencies": {}
 }
